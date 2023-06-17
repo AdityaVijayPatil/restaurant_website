@@ -1,7 +1,8 @@
 # restaurant_website
 
 interface of this website : 
-![Uploading image.png…]()
+![Web capture_17-6-2023_15019_](https://github.com/AdityaVijayPatil/restaurant_website/assets/121605913/f3d7b7b8-c2ba-43c0-b9fd-5428198cb73e)
+
 
 
 this website is created in atri lab
